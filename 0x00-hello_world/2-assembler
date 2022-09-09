@@ -1,3 +1,2 @@
-#!/bin/bash
+min/bash
 gcc $CFILE -o cisfun
-
