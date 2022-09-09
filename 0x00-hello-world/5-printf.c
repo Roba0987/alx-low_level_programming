@@ -10,4 +10,3 @@ int main(void)
           outcome is a piece of art,\n");
 	   return (0);
 }
-
